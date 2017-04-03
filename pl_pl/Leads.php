@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Leads' => 'Leads',
+	'Leads' => 'Leady',
 	'SINGLE_Leads' => 'Lead',
 	'LBL_RECORDS_LIST' => 'Lista Leadów',
 	'LBL_ADD_RECORD' => 'Dodaj Lead',

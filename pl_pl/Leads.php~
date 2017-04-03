@@ -54,7 +54,7 @@ $languageStrings = array(
 	'LBL_CONVERT_LEAD' => 'Konwertuj na kontrahenta',
 
 	//Convert Lead
-	'LBL_TRANSFER_RELATED_RECORD' => 'Transfer powizanych rekordów do',
+	'LBL_TRANSFER_RELATED_RECORD' => 'Transfer powiązanych rekordów do',
 	'LBL_CONVERT_LEAD_ERROR' => 'Aby konwertować Leada musiszą być aktywne moduły Kontrahenci i Kontakty.',
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Moduły wyłączone',
 	'CANNOT_CONVERT' => 'Nie można przekonwertować',
