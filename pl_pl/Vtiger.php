@@ -519,7 +519,7 @@ $languageStrings = array(
 	'Secondary Email' => 'Mail dodatkowy',
 	'Other Email' => 'Inny email',
 	'Email Opt Out' => 'Czy wyłączyć system powiadomień?',
-    'Is Converted From Lead' => 'Jest przekształcany z ołowiu'  , 
+	'Is Converted From Lead' => 'Były Lead?'  , 
 
 	'Expected Close Date' => 'Planowana data zakończenia',
 
