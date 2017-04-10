@@ -59,9 +59,9 @@ $languageStrings = array(
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Moduły wyłączone',
 	'CANNOT_CONVERT' => 'Nie można przekonwertować',
 	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Poniżej może znajdować się jeden z możliwych powodów:',
-	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Wszystkie obowiązkowe pola nie są mapowane (Narzędzia konfiguracyjne > Zarządzanie modułami > Potencjalni Klienci > Mapowanie utworzony pół w Potencjalnych klientach)',
+	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Wszystkie obowiązkowe pola nie są mapowane (Narzędzia konfiguracyjne > Zarządzanie modułami > Leady > Mapowanie utworzony pół w Leadach)',
 	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Niektóre wartość z obowiązkowych pól są puste',
-	'LBL_LEADS_FIELD_MAPPING' => 'Potencjalni Klienci - niestandardowe mapowanie pól',
+	'LBL_LEADS_FIELD_MAPPING' => 'Leady - niestandardowe mapowanie pól',
 
 	//Leads Custom Field Mapping
 	'LBL_CUSTOM_FIELD_MAPPING'=> 'Edytuj mapowanie pól',
