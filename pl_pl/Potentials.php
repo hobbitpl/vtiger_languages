@@ -24,7 +24,7 @@ $languageStrings = array(
 	'Next Step' => 'Kolejny krok',
 	'Sales Stage' => 'Etap sprzedaży',
 	'Probability' => 'Prawdopodobieństwo sukcesu',
-	'Campaign Source' => 'Kampania reklamowa',
+	'Campaign Source' => 'Kampania źródłowa',
 	'Forecast Amount' => 'Planowany przychód',
 	
 	//Dashboard widgets
